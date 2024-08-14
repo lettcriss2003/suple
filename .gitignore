@@ -1,0 +1,23 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos de logs
+*.losg
+
+#Ingorar los dockerfile
+Dockerfile
+
+#Ignorar docker compose
+docker-compose.yml
+
+# Ignorar archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos generados por el entorno de desarrollo
+.env
+*.env
+
+# Ignorar directorios de construcción y salida
+build/
+dist/
